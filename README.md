@@ -6,86 +6,75 @@
 
 </div>
 
+```python
 # 💫 About Me
 
-🎯 **AI/ML Engineer** with proven expertise in building production-ready AI systems — from safety monitoring to learning analytics. Built a deep learning model achieving **92.8% accuracy** and solved **250+ DSA problems**.
+class Ankit:
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.focus = ["Machine Learning", "Deep Learning", "LLMs", "GenAI"]
+        self.stack = ["Python", "TensorFlow", "PyTorch", "Django", "FastAPI",
+                      "React", "Node.js", "AWS", "Docker"]
+    
+    def highlights(self):
+        return {
+            "accuracy": "92.8% on deep learning model",
+            "problems": "250+ DSA problems solved",
+            "expertise": "End-to-end AI product development"
+        }
+    
+    def openings(self):
+        return ["ML Engineer", "AI Engineer", "NLP Engineer",
+                "Full-Stack AI Engineer", "LLM Engineer"]
+```
 
-🤖 Hands-on experience with **TensorFlow, PyTorch, scikit-learn**, and **LLM/GenAI** pipelines. Proficient across the full stack — **Python, Django, FastAPI, React, Node.js, AWS, Docker** — enabling end-to-end AI product development.
+```yaml
+# 🌐 Connect
 
-⚡ Open to roles in **Machine Learning, Deep Learning, NLP, LLMs, or Full-Stack AI Engineering**.
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivastava_ankit09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kr-srivastava)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ankorithm)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vkankit3@gmail.com)
-
----
-
-# 🛠️ Tech Stack
-
-## 🧠 AI / ML & Data Science
-
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-
-## 🌐 Web Development
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black)
-
-### Backend
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-
-## 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-
-## ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-
-## 🔧 Languages & Tools
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+links:
+  linkedin: https://linkedin.com/in/ankit-kr-srivastava
+  instagram: https://instagram.com/srivastava_ankit09
+  youtube: https://youtube.com/@Ankorithm
+  email: vkankit3@gmail.com
+```
 
 ---
 
+```json
+// 🛠️ Tech Stack
+
+{
+  "ai_ml_data_science": [
+    "Python", "TensorFlow", "PyTorch", "scikit-learn", "Keras",
+    "NumPy", "Pandas", "Matplotlib", "Plotly", "SciPy", "R"
+  ],
+  "web_frontend": [
+    "HTML5", "CSS3", "JavaScript", "TypeScript", "React",
+    "Chart.js", "TailwindCSS", "EJS"
+  ],
+  "web_backend": [
+    "Django", "Flask", "FastAPI", "Express.js", "NodeJS"
+  ],
+  "databases": [
+    "MongoDB", "MySQL", "Postgres"
+  ],
+  "cloud_devops": [
+    "AWS", "Azure", "Docker", "Render", "Vercel"
+  ],
+  "languages_tools": [
+    "C", "C++", "Java", "Solidity", "LaTeX",
+    "PowerShell", "Git", "GitHub"
+  ]
+}
+```
+
+---
+
+```bash
 # 📊 GitHub Analytics
+
+$ fetch-stats --user Ankitsri2005 --theme tokyonight
+```
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitsri2005&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="45%" />
@@ -97,18 +86,24 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitsri2005&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=8" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitsri2005&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions&radius=8" width="95%" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+```sql
+-- ✍️ Random Dev Quote
+SELECT quote FROM dev_quotes ORDER BY RANDOM() LIMIT 1;
+```
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 
-### 🐍 Contribution Snake
+```bash
+# 🐍 Contribution Snake
+$ snake --user Ankitsri2005 --animate
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankitsri2005/Ankitsri2005/output/github-contribution-grid-snake-dark.svg">
@@ -117,6 +112,14 @@
 </picture>
 
 ---
+
+```css
+/* 👋 Visitor Count */
+.visitor-badge {
+  color: blueviolet;
+  text-align: center;
+}
+```
 
 <div align="center">
 
