@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=220&section=header&text=Ankit%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20/%20ML%20%7C%20GenAI%20%7C%20Full-Stack%20Developer&descAlignY=68&descSize=16)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&speed=50&color=58A6FF&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Engineer;LLM+%26+GenAI+Explorer;Building+Real-World+AI+Systems;Solved+250%2B+DSA+Problems" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=300&section=header&text=Ankit%20Srivastava&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=AI%20/%20ML%20%7C%20GenAI%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=17)
 
 </div>
 
