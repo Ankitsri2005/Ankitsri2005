@@ -1,8 +1,6 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=300&section=header&text=Ankit%20Srivastava&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=AI%20/%20ML%20%7C%20GenAI%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=17)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=800&speed=55&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%96%A5%EF%B8%8F+Ankit+Srivastava;%F0%9F%A7%A0+AI+%2F+ML+Engineer;%F0%9F%94%AD+LLM+%26+GenAI+Explorer;%F0%9F%8C%9F+Building+Real-World+AI+Systems;%E2%9C%A8+Solved+250%2B+DSA+Problems" alt="Typing SVG" />
+</p>
 
 # 💫 About Me
 
@@ -119,7 +117,5 @@
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=Ankitsri2005&icon=3&color=blueviolet)](https://visitcount.itsvg.in)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
