@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Ankit%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%2F%20ML%20%7C%20GenAI%20%7C%20Full-Stack%20Developer&descAlignY=68&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Ankit%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%2F%20ML%20%7C%20GenAI%20%7C%20Full-Stack%20Developer&descAlignY=68&descSize=16&speed=20)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Engineer+in+the+making;LLM+%26+GenAI+Explorer;Building+Real-World+AI+Systems;Solved+250%2B+DSA+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&speed=50&deletionSpeed=30&color=58A6FF&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Engineer+in+the+making;LLM+%26+GenAI+Explorer;Building+Real-World+AI+Systems;Solved+250%2B+DSA+Problems" alt="Typing SVG" />
 
 </div>
 
@@ -42,7 +42,7 @@
 
 [![](https://komarev.com/ghpvc/?username=Ankitsri2005&icon=3&color=blueviolet)](https://visitcount.itsvg.in)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&speed=20)
 
 </div>
 
