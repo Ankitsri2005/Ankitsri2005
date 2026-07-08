@@ -22,13 +22,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitsri2005&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![trophy](https://trophy.karan.dev/?username=Ankitsri2005&theme=onedark&row=1&column=7)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ankitsri2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 📌 Featured Project
+[![Cognivo](https://github-readme-stats.shion.dev/api/pin/?username=Ankitsri2005&repo=Cognivo&theme=rose)](https://github.com/Ankitsri2005/Cognivo)
+
 
 ### 🐍 Contribution Snake
 <picture>
