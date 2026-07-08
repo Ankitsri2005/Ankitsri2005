@@ -22,8 +22,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitsri2005&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Ankitsri2005)
-
+![trophy](https://trophy.karan.dev/?username=Ankitsri2005&theme=onedark&row=1&column=7)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
