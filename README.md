@@ -85,15 +85,47 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=Ankitsri2005&theme=rose&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Ankitsri2005&theme=rose&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitsri2005&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitsri2005&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="45%" />
+</p>
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ankitsri2005&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ankitsri2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=Ankitsri2005&theme=gruvbox&no-frame=false&no-bg=false&column=5&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitsri2005&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=8" width="95%" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>🧠 AI Safety Monitoring System</b>
+      <br>Real-time surveillance & alert system powered by deep learning
+    </td>
+    <td align="center" width="50%">
+      <b>📊 Learning Analytics Platform</b>
+      <br>Data-driven insights for personalized education
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🤖 LLM-Based Chat Assistant</b>
+      <br>Context-aware conversational AI using GenAI
+    </td>
+    <td align="center" width="50%">
+      <b>⚡ DSA Problem Solver</b>
+      <br>250+ problems across all major topics
+    </td>
+  </tr>
+</table>
 
 ---
 
