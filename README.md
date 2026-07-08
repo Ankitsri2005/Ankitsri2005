@@ -8,11 +8,11 @@
 
 # 💫 About Me
 
-🔭 AI-powered systems solving real-world problems — from safety monitoring to learning analytics<br>
-👯 Innovative AI/ML, LLM, Full-Stack, and GenAI projects<br>
-🌱 Advanced system design and scaling ML/LLM-based models<br>
-💬 Machine Learning, Deep Learning, LLMs, NLP, or Python<br>
-⚡ Built an AI model with 92.8% accuracy and solved 250+ DSA problems
+🎯 **AI/ML Engineer** with proven expertise in building production-ready AI systems — from safety monitoring to learning analytics. Built a deep learning model achieving **92.8% accuracy** and solved **250+ DSA problems**.
+
+🤖 Hands-on experience with **TensorFlow, PyTorch, scikit-learn**, and **LLM/GenAI** pipelines. Proficient across the full stack — **Python, Django, FastAPI, React, Node.js, AWS, Docker** — enabling end-to-end AI product development.
+
+⚡ Open to roles in **Machine Learning, Deep Learning, NLP, LLMs, or Full-Stack AI Engineering**.
 
 ## 🌐 Connect With Me
 
@@ -99,33 +99,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitsri2005&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=8" width="95%" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🧠 AI Safety Monitoring System</b>
-      <br>Real-time surveillance & alert system powered by deep learning
-    </td>
-    <td align="center" width="50%">
-      <b>📊 Learning Analytics Platform</b>
-      <br>Data-driven insights for personalized education
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>🤖 LLM-Based Chat Assistant</b>
-      <br>Context-aware conversational AI using GenAI
-    </td>
-    <td align="center" width="50%">
-      <b>⚡ DSA Problem Solver</b>
-      <br>250+ problems across all major topics
-    </td>
-  </tr>
-</table>
 
 ---
 
