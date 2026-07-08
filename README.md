@@ -80,7 +80,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitsri2005&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitsri2005&theme=tokyonight" width="95%" />
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitsri2005&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions&radius=8" width="95%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitsri2005&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="45%" />
 </p>
 
 ---
